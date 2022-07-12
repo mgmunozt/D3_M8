@@ -1,0 +1,15 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  description: MyString
+  begin_at: 2022-05-19
+  final_at: 2022-05-19
+  estate: MyString
+
+two:
+  name: MyString
+  description: MyString
+  begin_at: 2022-05-19
+  final_at: 2022-05-19
+  estate: MyString
